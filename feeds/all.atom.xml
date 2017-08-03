@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Speedcuber</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2017-08-03T01:00:00+09:00</updated><entry><title>最初の記事</title><link href="/first-post.html" rel="alternate"></link><published>2017-08-03T01:00:00+09:00</published><updated>2017-08-03T01:00:00+09:00</updated><author><name>Sinpei Araki</name></author><id>tag:None,2017-08-03:/first-post.html</id><summary type="html">&lt;p&gt;記事の要約です。&lt;/p&gt;</summary><content type="html">&lt;h1&gt;ペリカン記事のタイトル&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;SyntaxHighlitだってバッチリ！&lt;/li&gt;
+&lt;li&gt;SyntaxHighlitだってバッチリ&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;code&gt;python
  print "Hello World!!"&lt;/code&gt;&lt;/p&gt;</content><category term="speedcubing"></category></entry></feed>
