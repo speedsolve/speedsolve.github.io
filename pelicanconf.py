@@ -19,11 +19,13 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+FEED_ATOM = None
+FEED_RSS = None
+FEED_ALL_ATOM = None
+FEED_ALL_RSS = None
+
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = ('twitter', 'https://twitter.com/speedsolve')
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
