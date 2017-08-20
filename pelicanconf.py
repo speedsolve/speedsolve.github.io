@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Sinpei Araki'
 SITENAME = 'Sinpei Araki''s Blog'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'https://speedsolve.github.io'
 SITELOGO = 'https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/18403698_1714019478615303_5287730190355027188_n.jpg?oh=95c98b8619be4997e9e4e3bc1e270f1e&oe=59F5A3CC'
 SITETITLE = AUTHOR
 SITESUBTITLE = 'Speedcuber'
@@ -38,3 +38,4 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+GOOGLE_ANALYTICS='UA-35513474-3'
